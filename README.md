@@ -1,5 +1,5 @@
 <h1 align="center">Привет, меня зовут Эдуард! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" height="32"/></h1>
-<h3 align="center">Я Frontend developer</h3>
+<h3 align="center">Я Junior Frontend Developer</h3>
 
 <div align="center" >
   <img src="https://c.tenor.com/qD-f9yFZjy0AAAAd/tenor.gif"/>
@@ -19,9 +19,10 @@
 
 <h2 align="center">Пет проекты</h2>
 <div align="center">
- <!--  <a href="https://to-do-list-alpha-smoky.vercel.app/" target="_blank">
-    📖Task manager
+  <a href="https://github.com/mednikov-eduard/youtube-2.0" target="_blank">
+    🎥video hosting
   </a>
+  <!-- 
   <a href="https://my-website-mocha-ten.vercel.app/" target="_blank">
     🌐business card website 
   </a>
@@ -33,8 +34,8 @@
   </a>
   <a href="https://site-authorization.vercel.app" target="_blank">
     🔐Site with authorization
-  </a> -->
-  Идет реконструкция....
+  </a> 
+  -->
 </div>
 
 <h2 align="center">Технологии</h2>
@@ -59,6 +60,12 @@
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DogmaN-fe)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogmaN-fe" 
+         alt="Top Languages" 
+         style="border: none;">
+</a>
 
 <!---
 [![trophy](https://github-profile-trophy.vercel.app/?username=DogmaN-fe)](https://github.com/ryo-ma/github-profile-trophy)
