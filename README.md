@@ -51,7 +51,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="tailwind"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original.svg" width="50" height="50" alt="framermotion-original.svg"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" width="50" height="50" alt="axios"/>
-  <p>И TanStack Query (иконку не нашел :D)</p>
+<!--   <p>И TanStack Query (иконку не нашел :D)</p> -->
 </div>
 
 
