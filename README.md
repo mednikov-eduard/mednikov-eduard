@@ -19,7 +19,7 @@
 
 <h2 align="center">Пет проекты</h2>
 <div align="center">
-  <a href="https://github.com/mednikov-eduard/youtube-2.0" target="_blank">
+  <a href="http://yourvedeo-pet-project.site" target="_blank">
     🎥video hosting
   </a>
   <!-- 
