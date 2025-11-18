@@ -19,9 +19,12 @@
 
 <h2 align="center">Пет проекты</h2>
 <div align="center">
-  <a href="http://yourvedeo-pet-project.site" target="_blank">
+  <a href="https://github.com/mednikov-eduard/video-hosting" target="_blank">
     🎥video hosting
   </a>
+  <!-- <a href="http://yourvedeo-pet-project.site" target="_blank">
+    🎥video hosting
+  </a> -->
   <!-- 
   <a href="https://my-website-mocha-ten.vercel.app/" target="_blank">
     🌐business card website 
