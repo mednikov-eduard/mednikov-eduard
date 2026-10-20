@@ -1,81 +1,35 @@
 <h1 align="center">Привет, меня зовут Эдуард! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" height="32"/></h1>
-<h3 align="center">Я Junior Frontend Developer</h3>
+<h3 align="center">Frontend-разработчик · Vue 3 + TypeScript</h3>
 
-<div align="center" >
+<div align="center">
   <img src="https://c.tenor.com/qD-f9yFZjy0AAAAd/tenor.gif"/>
   <h3>Обо мне</h3>
-  <p>Молодой frontend-разработчик, стремящийся к профессиональному совершенству. Мой фокус – это постоянное изучение новых технологий и инструментов, которые помогают писать чистый и производительный код. Легко адаптируюсь к различным подходам в работе, нахожу общий язык с командой и всегда открыт к новым вызовам. Моя цель – постоянно расти как специалист и приносить максимальную пользу в проектах</p>
+  <p>Frontend-разработчик в продуктовой команде: пишу SPA на Vue 3 и TypeScript — формы с валидацией, редакторы, права доступа, API-слой и тесты. Работаю по хэндбуку команды, прохожу код-ревью через MR и сам ревьюю коллег. Люблю, когда код понятный, типобезопасный и покрыт тестами.</p>
 </div>
 
 <h2 align="center">Контакты</h2>
-<div align="center" >
+<div align="center">
   <a href="https://t.me/Eduard_np" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:eduadmedh@yandex.ru" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/>
+    <img src="https://img.shields.io/badge/Яндекс_Почта-FC3F1D?style=for-the-badge&logoColor=white" alt="Email"/>
   </a>
 </div>
 
-<h2 align="center">Пет проекты</h2>
+<h2 align="center">Стек</h2>
 <div align="center">
-  <a href="https://github.com/mednikov-eduard/video-hosting" target="_blank">
-    🎥video hosting
-  </a>
-  <!-- <a href="http://yourvedeo-pet-project.site" target="_blank">
-    🎥video hosting
-  </a> -->
-  <!-- 
-  <a href="https://my-website-mocha-ten.vercel.app/" target="_blank">
-    🌐business card website 
-  </a>
-  <a href="https://ovinograd.vercel.app/" target="_blank">
-    🖥Landing
-  </a>
-  <a href="https://dogman-fe.github.io/test-form/" target="_blank">
-    📝Test
-  </a>
-  <a href="https://site-authorization.vercel.app" target="_blank">
-    🔐Site with authorization
-  </a> 
-  -->
+  <img src="https://skillicons.dev/icons?i=vue,ts,pinia,vite,vitest,sass,js,html,css,git,gitlab" alt="Vue, TypeScript, Pinia, Vite, Vitest, Sass, JavaScript, HTML, CSS, Git, GitLab"/>
+  <p>
+    <b>Каждый день:</b> Vue 3 (Composition API) · TypeScript · Pinia · Vue Router · Element Plus · vee-validate + Zod · Axios · Tiptap · Vitest + Vue Test Utils · Vite · SCSS
+  </p>
+  <sub>
+    <b>Знаком / работал раньше:</b> React · Next.js · Redux Toolkit · TanStack Query · Tailwind CSS · Framer Motion · Nuxt · Python / Django
+  </sub>
 </div>
 
-<h2 align="center">Технологии</h2>
+<h2 align="center">Статистика</h2>
 <div align="center">
-   <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="javascript"/>
-   <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="typescript"/>
-   <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" width="50" height="50" alt="react"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="nextjs"/>
-   <img src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg" width="50" height="50" alt="redux"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" alt="html"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50" alt="css"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" height="50" alt="sass"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="tailwind"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original.svg" width="50" height="50" alt="framermotion-original.svg"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" width="50" height="50" alt="axios"/>
-<!--   <p>И TanStack Query (иконку не нашел :D)</p> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mednikov-eduard&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&locale=ru" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednikov-eduard&layout=compact&hide_border=true&locale=ru" height="165" alt="Top languages"/>
 </div>
-
-
-<h2 align="center">Моя статистика</h2>
-
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednikov-eduard" 
-         alt="Top Languages" 
-         style="border: none;">
-</a>
-
-<!---
-[![trophy](https://github-profile-trophy.vercel.app/?username=DogmaN-fe)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DogmaN-fe)](https://github.com/anuraghazra/github-readme-stats)
-
---->
-</div>
-<!---
-DogmaN-fe/DogmaN-fe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
