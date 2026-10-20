@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://c.tenor.com/qD-f9yFZjy0AAAAd/tenor.gif"/>
   <h3>Обо мне</h3>
-  <p>Frontend-разработчик в продуктовой команде: пишу SPA на Vue 3 и TypeScript — формы с валидацией, редакторы, права доступа, API-слой и тесты. Работаю по хэндбуку команды, прохожу код-ревью через MR и сам ревьюю коллег. Люблю, когда код понятный, типобезопасный и покрыт тестами.</p>
+  <p>Frontend-разработчик в продуктовой команде: Vue 3, TypeScript, Pinia, Vitest. Берусь за задачи целиком, от API-слоя до UI и тестов, работаю по хэндбуку команды и через код-ревью.</p>
 </div>
 
 <h2 align="center">Контакты</h2>
@@ -24,12 +24,14 @@
     <b>Каждый день:</b> Vue 3 (Composition API) · TypeScript · Pinia · Vue Router · Element Plus · vee-validate + Zod · Axios · Tiptap · Vitest + Vue Test Utils · Vite · SCSS
   </p>
   <sub>
-    <b>Знаком / работал раньше:</b> React · Next.js · Redux Toolkit · TanStack Query · Tailwind CSS · Framer Motion · Nuxt · Python / Django
+    <b>Знаком / работал раньше:</b> React · Next.js · Redux Toolkit · TanStack Query · Tailwind CSS · Framer Motion
   </sub>
 </div>
 
-<h2 align="center">Статистика</h2>
+<h2 align="center">Сейчас изучаю</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mednikov-eduard&show_icons=true&hide_border=true&locale=ru" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednikov-eduard&layout=compact&hide_border=true&locale=ru" height="165" alt="Top languages"/>
+  <img src="https://skillicons.dev/icons?i=nuxtjs,py,django" alt="Nuxt, Python, Django"/>
+  <p>
+    <b>Nuxt</b> — SSR и fullstack на Vue · <b>Python + Django</b> — развиваюсь в бэкенде
+  </p>
 </div>
