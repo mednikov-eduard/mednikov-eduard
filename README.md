@@ -30,6 +30,6 @@
 
 <h2 align="center">Статистика</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mednikov-eduard&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&locale=ru" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mednikov-eduard&show_icons=true&hide_border=true&locale=ru" height="165" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednikov-eduard&layout=compact&hide_border=true&locale=ru" height="165" alt="Top languages"/>
 </div>
