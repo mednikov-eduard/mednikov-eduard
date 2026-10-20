@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#42b883"/>
+      <stop offset="1" stop-color="#3178c6"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="900" height="230" rx="18"/></clipPath>
+    <style>
+      .wave { animation: drift 9s ease-in-out infinite alternate; }
+      .wave2 { animation: drift 13s ease-in-out infinite alternate-reverse; }
+      .t { font-family: 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif; fill: #fff; }
+      .name { font-size: 50px; font-weight: 700; }
+      .sub { font-size: 20px; font-weight: 500; opacity: .92; }
+      .tag { font-family: 'JetBrains Mono', Menlo, Consolas, monospace; font-size: 14px; fill: #fff; opacity: .55; }
+      @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-120px); } }
+    </style>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="900" height="230" fill="url(#g)"/>
+    <path class="wave2" fill="#fff" fill-opacity=".08" d="M0 160 C150 120 300 200 450 160 S750 120 900 160 S1050 200 1100 170 L1100 230 L0 230Z"/>
+    <path class="wave" fill="#fff" fill-opacity=".12" d="M0 190 C160 150 320 230 480 190 S800 150 960 190 S1060 210 1100 200 L1100 230 L0 230Z"/>
+    <text class="tag" x="36" y="40">&lt;template&gt;</text>
+    <text class="tag" x="864" y="206" text-anchor="end">&lt;/template&gt;</text>
+    <text class="t name" x="450" y="112" text-anchor="middle">Эдуард Медников</text>
+    <text class="t sub" x="450" y="150" text-anchor="middle">Frontend-разработчик · Vue 3 + TypeScript</text>
+  </g>
+</svg>

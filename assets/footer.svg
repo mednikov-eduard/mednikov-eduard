@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="90" viewBox="0 0 900 90">
+  <defs>
+    <linearGradient id="f" x1="0" x2="1">
+      <stop offset="0" stop-color="#3178c6"/>
+      <stop offset="1" stop-color="#42b883"/>
+    </linearGradient>
+    <clipPath id="fc"><rect width="900" height="90" rx="18"/></clipPath>
+    <style>.w { animation: m 10s ease-in-out infinite alternate; } @keyframes m { to { transform: translateX(-120px); } }</style>
+  </defs>
+  <g clip-path="url(#fc)">
+    <path class="w" fill="url(#f)" d="M0 40 C160 0 320 80 480 40 S800 0 960 40 S1060 60 1100 50 L1100 90 L0 90Z"/>
+  </g>
+</svg>
